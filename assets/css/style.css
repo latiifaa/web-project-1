@@ -1,0 +1,21 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+body {
+    background-color: royalblue;
+}
+
+.book h1 {
+    text-align: center;
+}
+
+.book img {
+    height: 400px;
+}
+
+.book button {
+font-size: large;
+ margin: 20px;
+}
+ 
+.row {
+    text-align: center;
+} 
